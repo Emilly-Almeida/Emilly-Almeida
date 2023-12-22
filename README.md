@@ -34,8 +34,8 @@ _I am a **student** and passionate about technology. I'm currently studying Info
 &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </a>&nbsp;
-&nbsp;<a href="https://www.mysql.com/">
-    <img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+&nbsp;<a href="https://www.postgresql.org/">
+    <img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </a>&nbsp;
 &nbsp;<a href="https://expressjs.com/">
     <img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
